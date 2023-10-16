@@ -6,3 +6,4 @@
 - 💫 my pronouns are she/ her
 - 🌟 I'm not gonna lie, my cat Albert is the cuddliest cat in the world
 
+<img src="https://images.pexels.com/photos/1437466/pexels-photo-1437466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="an orange cat" style="width:300px ;height:auto;">
